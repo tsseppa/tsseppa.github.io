@@ -9,9 +9,9 @@ What inspires me the most
 ## Links
 
 Here you can see where I have trained lately
-+[Doma](http://tus.fi/doma/index.php?user=toukoseppa)
-+[Strava](https://www.strava.com/athletes/48744710)
-+[Instagram](https://www.instagram.com/toukoseppa/)
++ [Doma](http://tus.fi/doma/index.php?user=toukoseppa)
++ [Strava](https://www.strava.com/athletes/48744710)
++ [Instagram](https://www.instagram.com/toukoseppa/)
 
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/48744710/latest-rides/ccbd3d7d35d5e1cede30d179ea54f48330d57a81'></iframe>
