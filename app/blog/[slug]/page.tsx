@@ -15,7 +15,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
             <p className="text-sm text-gray-400 mb-2">{post.date}</p>
             <h1 className="text-4xl font-bold mb-8">{post.title}</h1>
             {/* dangerouslySetInnerHTML renders the HTML that remark generated from your Markdown */}
-            <article dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+            <article className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
         </main>
     )
 }
