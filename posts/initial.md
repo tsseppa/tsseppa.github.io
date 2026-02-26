@@ -4,8 +4,6 @@ date: "2025-02-26"
 description: "Who, what, why"
 ---
 
-# About this website
-
 This blog has been a long time in my mind. I like to read, and I should also write about what I read. That enables me to absorb and grasp the things.
 
 Well, what I want to write about? This could be about my sports life, or about my studies, but mostly what I feel I want to write about is stuff I read. 
